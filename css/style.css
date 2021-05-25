@@ -127,6 +127,7 @@ a:hover {
     border-color: rgba(255, 255, 255, .2);
 }
 
+
 .d-bloc .a-btn,
 .d-bloc .navbar a,
 .d-bloc .navbar-brand,
@@ -230,7 +231,7 @@ a:hover {
 .l-bloc .navbar-brand,
 .l-bloc a .icon-sm,
 .l-bloc a .icon-md,
-.l-bloc a .icon-lg,
+/*.l-bloc a .icon-lg,*/
 .l-bloc a .icon-xl,
 .l-bloc h1 a,
 .l-bloc h2 a,
@@ -247,7 +248,7 @@ a:hover {
 .l-bloc .navbar a:hover,
 .l-bloc .navbar-brand:hover,
 .l-bloc a:hover .icon-sm,
-.l-bloc a:hover .icon-md,
+/*.l-bloc a:hover .icon-md,*/
 .l-bloc a:hover .icon-lg,
 .l-bloc a:hover .icon-xl,
 .l-bloc h1 a:hover,
@@ -488,6 +489,7 @@ button {
 .icon-md {
     font-size: 30px!important;
 }
+
 
 .icon-lg {
     font-size: 60px!important;
